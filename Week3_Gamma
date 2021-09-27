@@ -1,3 +1,27 @@
 This is an report about following topics.
 Gamma / Linear Workflow, ACES, and Premultification.
+=============
 
+#This is details about Gamma
+*What is Gamma?
+'''
+  {
+  These informations are from
+  ("http://www6.uniovi.es/hypgraph/color/gamma_correction/gamma_intro.html")
+  *Gamma correction matters if you have any interest in displaying an image accurately on a computer screen. 
+  *Gamma correction controls the overall brightness of an image. 
+  *Images which are not properly corrected can look either bleached out, or too dark. Trying to reproduce colors accurately also requires some knowledge of gamma.
+  *Varying the amount of gamma correction changes not only the brightness, but also the ratios of red to green to blue.
+  }
+'''
+*What is Linear Workflow?
+'''
+  {
+  These informations are from
+  ("https://www.cineversity.com/wiki/Linear_Workflow/")
+  *Linear Workflow relates to the image and render pipeline, and how input imagery (typically textures and backgrounds) are processed by the rendering engine, and how the rendering engine applies adjustments to the final resulting images and movie files.
+  Following URLs are just for personal studies about "What is Linear Workflow?" and "How can I use it in Maya?".
+  ("https://kyoungwhankim.github.io/ko/blog/color_linearworkflow/")
+  ("https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=zinblue&logNo=140199808147")
+  }
+'''
