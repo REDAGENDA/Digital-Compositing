@@ -1,0 +1,60 @@
+This report is about following topics.
+이 문서는 다음의 주제들에 관한 것입니다.
+Chroma Key, Keyers, Dispill.
+==============
+
+#These are details about Chroma Key.
+아래의 내용은 크로마 키(Chroma Key)에 관한 세부 내용입니다.
+*What is Green Screen and why are we using it? Why does it have to be Green?
+*그린 스크린이란 무엇이며 우리는 왜 그것을 사용하는가? 왜 초록색이어야 하는가?
+'''
+  {
+  These informations were from
+  ("https://www.premiumbeat.com/blog/chroma-key-green-screen-guide/")
+  ("https://www.mentalfloss.com/article/73988/why-are-green-screens-green")
+  *Green Screen is a colored background that we want to make it transparent and remove from our shot.
+  *그린 스크린은 간단하게 말해서 색칠된 배경입니다. 해당 배경을 투명하게 만들고, 샷 이미지에서 지우는 용도로 사용합니다.
+  *We use the Green Screen because it is the farthest color from human skin tones.
+  *그린 컬러가 사람의 피부 톤에서 가장 멀리 떨어져 있는 색상이기 때문에 그린 스크린에 사용합니다.
+  *The truth is, it doesn't matter what color we use for Chroma Keying. Although green is used so often, any color will work. 
+  *사실은 무슨 색을 쓰던지 상관은 없습니다. 초록색이 가장 널리, 자주 쓰이지만 어느 색을 쓰던지 정상적으로 기능할 것입니다.
+  *Green is the go-to color, because it doesn't match any natural skin tone or hair color, this means no part of an actor will be edited out through chroma key.
+  *초록색이 대표성을 띄는 이유는 배우의 피부 톤, 머리카락 톤과 일치할 일이 거의 없기 때문입니다. 이는 배우의 일부분이 편집 시 지워질 일이 없다는 것을 의미합니다. 즉, 편집의 용이를 위해 초록색을 쓰는 것입니다.
+  }
+'''
+*What is Chroma Keying?
+*크로마 키(Chroma Keying)이란 무엇인가?
+'''
+  {
+  These informations were from
+  ("https://www.premiumbeat.com/blog/chroma-key-green-screen-guide/")
+  ("https://www.mentalfloss.com/article/73988/why-are-green-screens-green")
+  *The Chroma Keying is technique of layering, compositing two images based on color hues. Every color has a chroma range, that is why the term is named 'Chroma Key'.
+  *모든 색은 
+  }
+'''
+*What is Chroma?
+*채도란 무엇인가?
+'''
+  {
+  ("http://www.huevaluechroma.com/082.php")
+  *
+  }
+'''
+*What is Hue?
+*란 무엇인가?
+'''
+  {
+  ("https://www.winsornewton.com/na/education/guides/what-is-the-definition-of-hue-in-a-colour-name/")
+  *
+  }
+'''
+*What is Keying?
+키(Keying)란 무엇인가?
+'''
+  {
+  These informations were from 
+  ("https://www.premiumbeat.com/blog/chroma-key-green-screen-guide/")
+  *
+  }
+'''
