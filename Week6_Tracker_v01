@@ -1,0 +1,46 @@
+This is an report about following topics.
+이 문서는 이하의 주제들에 관한 것입니다.
+Tracking, Tracker Nodes.
+==========
+
+#These are details about Tracking.
+*What is Tracking in VFX?
+*Tracking은 VFX에서 무엇을 의미하는가?
+'''
+  {
+  These informations were from
+  ("https://www.fxguide.com/fxfeatured/art_of_tracking_part_1_history_of_tracking/")
+  *Tracking is the process of automatically locating a point or series of points from frame to frame in a sequence, allowing the user to stablise, track to or solve object or camera movement in the shot.
+  *Merge은 자동으로 하나의 점 또는 여러 개의 점을 매 프레임마다 위치시켜 카메라의 떨림을 방지하거나 물체를 추적하는 기능을 말한다.
+  }
+'''
+*History of Tracking
+*Tracking의 역사
+'''
+  {
+  These informations were from
+  ("https://www.fxguide.com/fxfeatured/art_of_tracking_part_1_history_of_tracking/")
+  *The concept of Tracking in computer system was first began in US Defense Development for tracking missile.
+  *컴퓨터 시스템에서 Tracking(추적)은 미군 방위 연구소에서 미사일을 추적하기 위해 처음 도입되었다. 아마도 일종의 레이더였을 것으로 생각한다.
+  *ILM(Industrial Light and Magic) had the oldest VFX tracking system called the MM2, which was a manual 2D tracking tool. They used it on the movie "Hook and Death Becomes Her".
+  *ILM에서 영화 VFX에 한하여 가장 처음으로 2D 트래킹 툴 MM2를 개발하여 사용하였다. 처음의 그것은 수동 작업 툴이었다(끔찍하다). 그들은 그것을 활용해 영화 "Hook and Death Becomes Her"을 제작했다.
+  *ILM used the basis of tracking tool to make the earlist 3D tracking tool, which was used in the "Jurassic Park".
+  *ILM은 자신들이 개발한 2D 트래킹 툴의 기본 원칙을 바탕으로 최초의 3D 트래킹 툴을 만들었다. 이는 주라기 공원에서 활용되었다.
+   }
+'''
+
+#These are details about Tracker node.
+*What is Tracke node?
+*트래커 노드는 무엇인가?
+'''
+  {
+  These informations were from
+  ("https://learn.foundry.com/nuke/content/reference_guide/transform_nodes/tracker.html")
+  ("https://learn.foundry.com/nuke/content/comp_environment/warping/tracking_tracker.html")
+  ("https://learn.foundry.com/nuke/content/comp_environment/tracking_stabilizing/applying_tracking_data.html")
+  *This is 2D tracker that allows you to extract animation data from the position(1point), rotation(2point), and size of an image.
+  *이 노드는 위치, 회전, 면적에 대한 애니메이션 데이터를 추출할 수 있도록 해줍니다.
+  *By using it you can apply the data directly to transform and match-move another element.
+  *노드를 활용함으로써 추출한 데이터를 직접 변형하거나 다른 시각요소의 움직임에 맞출 수 있습니다.
+  }
+'''
