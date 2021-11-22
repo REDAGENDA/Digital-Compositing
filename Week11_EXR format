@@ -1,0 +1,44 @@
+This report is about following topics.
+이 문서는 다음의 주제들에 관한 것입니다.
+EXR
+==============
+
+#These are details about EXR.
+*What is EXR?
+'''
+  {
+  These informations were from
+  ("https://www.openexr.com/")
+  *EXR is a file format which is provided by OpenEXR. It was originally developed by Industrial Light & Magic(ILM). But many companies(such as Weta Digital, Walt Disney Animation Studios)
+  and other) and indivisuals had contributited when making the code base.
+  *EXR은 OpenEXR에 의해 제공되는 파일 형식이다. ILM에 의해 최초로 개발되었으며, 다른 회사나 개인들이 코드 베이스를 개발하는 데 참여하였다.
+  *It is also a project of the Academy Software Foundation and a part of VFX Reference Platform.
+  The URLs for Academy Software Foundation and VFX Reference Platform is down below.
+  ("https://www.aswf.io/")
+  ("https://vfxplatform.com/")
+  }
+'''
+
+*What is the use of EXR format?
+'''
+  {
+  These informations were from
+  ("https://www.openexr.com/")
+  *The EXR is made for the professional-grade image storage format of the motion picture industry. The purpose of format is to accurately and efficiently represent high-dynamic-range scene,
+  linear image data, and associated metadata, with stromg support for multi-part, multi-channel use cases. 
+  *It is widely used in software which needs accuracy, such as photorealistic rendering, texture access, image compositing, deep compositing, and DI.
+  }
+'''
+
+*The features of EXR format
+'''
+  {
+  These infromations were from
+  ("https://www.openexr.com/")
+  *High dynamic range and color precision.
+  *Support for 16-bit floating-point, 32-bit floating-point, and 32-bit integer pixels.
+  *Multiple image compression algorithms, both lossless and lossy. Some of the included codecs can achieve 2:1 lossless compression ratios on images with film grain. The lossy codecs have been tuned for visual quality and decoding performance.
+  *Support for stereoscopic image workflows and a generalization to multi-views.
+  *Flexible support for deep data: pixels can store a variable-length list of samples and, thus, it is possible to store multiple values at different depths for each pixel. Hard surfaces and volumetric data representations are accommodated.
+  }
+'''
