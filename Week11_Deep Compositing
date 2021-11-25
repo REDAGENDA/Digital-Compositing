@@ -1,0 +1,25 @@
+#This is a report about Deep Compositing.
+=============
+
+#What is Deep Composting?
+'''
+  {
+  Info from
+  ("https://learn.foundry.com/nuke/content/comp_environment/deep/deep_compositing.html")
+  Deep Compositing uses additonal depth data to solve problems.
+  A standard 2D image contains a single data for each pixels. On the other hand, deep image contains multipel data per a pixel which contains color, opacity, and the camera relative depth.
+  }
+'''
+
+#Nuke's nodes for Deep Compositing.
+'''
+  {
+  Info from the same URL above.
+  'DeepRead' node reads deep image data .
+  'DeepMerge' node merges deep data.
+  'DeepHoldout' node generates holdout mattes from a pair of deep images.
+  'DeepSample' node samples informations from given pixel.
+  'DeepCrop' node, 'DeepReformat' node, 'DeepTransform' node crops, reformats, and transform deep images.
+  'DeepFromFrames' node, 'DeepFromImage' node, 'DeepRecolor' node, and ScanlineRender node creates deep images.
+  }
+'''
